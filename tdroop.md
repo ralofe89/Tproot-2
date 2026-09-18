@@ -1,6 +1,6 @@
 # Writeup: Tproot (DockerLabs)
 
-**Autor:** [Tu Nombre/Usuario]
+**Autor:** Raul lozano
 **Plataforma:** DockerLabs
 **Dificultad:** Muy Fácil
 **Vulnerabilidad Principal:** Backdoor en vsftpd 2.3.4 (CVE-2011-2523)
